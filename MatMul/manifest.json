@@ -1,0 +1,19 @@
+{
+    "PROJECT": "MatMul",
+    "ARGS": [],
+    "LIB": ["SIPS-lib-0.2-SNAPSHOT-jar-with-dependencies.jar"],
+    "OUTPUTFREQUENCY": 100,
+    "JVMARGS": [],
+    "SCHEDULER": {
+        "MaxNodes": "4",
+        "Name": "in.co.s13.sips.schedulers.Chunk"
+    },
+    "MASTER": {
+        "HOST": "127.0.0.1",
+        "API-PORT": "13139",
+        "JOB-PORT": "13136",
+        "API-KEY": "ff21930e-2f22-4d57-8ca8-0e1b0d4b4e31",
+    },
+    "MAIN": "MatMul",
+    "ATTCH": []
+}
