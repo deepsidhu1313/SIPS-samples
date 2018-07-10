@@ -1,4 +1,4 @@
-#Sample Matrix Multiplication Problem
+# Sample Matrix Multiplication Problem
 
 Source code is located under `src` directory.
 
@@ -6,7 +6,7 @@ You can place your libraries and jar files in `lib` directory.
 
 Edit manifest.json file as per your SIPS setup.
 
-#manifest.json
+# manifest.json
 
         {
             "PROJECT": "MatMul",
@@ -53,7 +53,7 @@ manifest file is self explanatory.
         }
 
 
-#List of inbuilt schedulers
+# List of inbuilt schedulers
 
         in.co.s13.sips.schedulers.Chunk
         in.co.s13.sips.schedulers.Factoring
